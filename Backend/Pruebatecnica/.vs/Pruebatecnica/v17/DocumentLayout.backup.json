@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\modelos\\subproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\modelos\\subproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\lenovo\\source\\repos\\pruebatecnica\\pruebatecnica\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEACB7D4-D6C2-447A-90AA-3A6F0A7C41A2}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pruebatecnica\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pruebatecnica\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T17:04:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Pruebatecnica\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Modelos\\Producto.cs",
+              "RelativeToolTip": "Pruebatecnica\\Modelos\\Producto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:14:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubProducto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Modelos\\SubProducto.cs",
+              "RelativeDocumentMoniker": "Pruebatecnica\\Modelos\\SubProducto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Modelos\\SubProducto.cs",
+              "RelativeToolTip": "Pruebatecnica\\Modelos\\SubProducto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:14:10.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "Pruebatecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\appsettings.json",
+              "RelativeToolTip": "Pruebatecnica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T16:19:19.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Program.cs",
+              "RelativeDocumentMoniker": "Pruebatecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Program.cs",
+              "RelativeToolTip": "Pruebatecnica\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:15:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Pruebatecnica\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Pruebatecnica\\Pruebatecnica\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Pruebatecnica\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:14:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\pruebatecnica\\pruebatecnica\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "pruebatecnica\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\pruebatecnica\\pruebatecnica\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "pruebatecnica\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA8wIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:35:46.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

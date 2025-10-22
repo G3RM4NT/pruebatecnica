@@ -1,0 +1,184 @@
+[
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "GetProductos",
+    "RelativePath": "api/Productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Pruebatecnica.Modelos.Producto, pruebatecnica, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "PostProducto",
+    "RelativePath": "api/Productos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "Pruebatecnica.Modelos.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pruebatecnica.Modelos.Producto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "PutProducto",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedProducto",
+        "Type": "Pruebatecnica.Modelos.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "DeleteProducto",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "PatchEstado",
+    "RelativePath": "api/Productos/{id}/estado",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "activo",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "PostSubProducto",
+    "RelativePath": "api/Productos/{productoId}/subproductos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "subProducto",
+        "Type": "Pruebatecnica.Modelos.SubProducto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pruebatecnica.Modelos.SubProducto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "PutSubProducto",
+    "RelativePath": "api/Productos/{productoId}/subproductos/{subproductoId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "subproductoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedSubProducto",
+        "Type": "Pruebatecnica.Modelos.SubProducto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pruebatecnica.Controllers.ProductosController",
+    "Method": "DeleteSubProducto",
+    "RelativePath": "api/Productos/{productoId}/subproductos/{subproductoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "subproductoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
